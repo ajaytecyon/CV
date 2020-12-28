@@ -64,3 +64,18 @@ color: red;
 .Hobbies:hover {
 color: red;
 }
+.social {
+  width: 25px;
+  border-style: none;
+}
+.smi {
+ width: 25px;
+ background-color:#6f9eaf;
+}
+.submit {
+background-color: #6f9eaf;
+border-radius: 5%;
+font-family: "Trebuchet MS",sans-serif;
+font-size: 14px;
+font-weight: bold;
+}
