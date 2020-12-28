@@ -1,0 +1,66 @@
+body {
+  background-color: #eff8ff;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-width: 5px;
+}
+
+h1 {
+  font-family:"Trebuchet MS",sans-serif;
+  color: #6f9eaf;
+}
+h1:hover {
+color: red;
+}
+h2 {
+  font-family: "Trebuchet MS",sans-serif;
+  color: #6f9eaf;
+}
+
+h3 {
+  font-family: "Trebuchet MS",sans-serif;
+  color: #6f9eaf;
+}
+
+p {
+  font-family: "Trebuchet MS",sans-serif;
+  font-size: 14px;
+  color: #6f9eaf;
+}
+
+li {
+  font-family: "Trebuchet MS",sans-serif;
+  font-size: 14px;
+  color: #433d3c;
+}
+
+td {
+  font-family: "Trebuchet MS",sans-serif;
+  font-size: 14px;
+  color: #433d3c;
+}
+
+th {
+  font-family: "Trebuchet MS",sans-serif;
+  font-size: 14px;
+  color: #433d3c;
+}
+button {
+  width: 80px;
+  border-style: none;
+  background-color:#eff8ff;
+}
+.contact {
+  width: 80px;
+}
+.projects:hover {
+color: red;
+}
+.Hobbies:hover {
+color: red;
+}
